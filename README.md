@@ -1,2 +1,2 @@
 # FaisalKhan_JAVA_Lab1
-JAVA lab1 submission.
+This repository contains the code of JAVA lab1 assignment.
