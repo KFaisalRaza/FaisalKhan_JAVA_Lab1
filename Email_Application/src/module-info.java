@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module Email_Application {
-}
